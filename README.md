@@ -6,7 +6,7 @@
 - [x] Lecture 1
 - [x] Lecture 2
 - [x] Lecture 3
-- [x] Lecture 4
+- [ ] Lecture 4
 - [ ] Lecture 5
 - [ ] Lecture 6
 - [ ] Lecture 7
